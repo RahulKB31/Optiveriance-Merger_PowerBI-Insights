@@ -4,6 +4,9 @@
 
 Welcome to the Optiveriance-PDCL Merger Business Infrastructure Audit README. This document provides a comprehensive overview of the audit's objectives, methodologies, and anticipated outcomes. Our goal is to ensure a smooth transition during the merger process by thoroughly analyzing and visualizing Optiveriance's business infrastructure. By conducting this audit, we aim to achieve the following:
 
+![Dashboard Preview](aquiproject.png)
+
+
 ## Objectives
 
 1. **Holistic Understanding:** Gain a comprehensive understanding of Optiveriance's business infrastructure, focusing on critical areas such as sales, profit, performance, and regional dynamics.
